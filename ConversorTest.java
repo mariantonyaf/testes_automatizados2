@@ -10,12 +10,12 @@ public class ConversorTest {
 
     @BeforeClass
     public static void antesDeTudo() {
-        System.out.println("Início dos testes da classe Conversor...");
+        System.out.println("Inicio dos testes da classe Conversor...\n");
     }
 
     @AfterClass
     public static void depoisDeTudo() {
-        System.out.println("Fim dos testes da classe Conversor.");
+        System.out.println("\nFim dos testes da classe Conversor.");
     }
 
     @Before
